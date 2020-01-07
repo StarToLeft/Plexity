@@ -1,0 +1,13 @@
+[submodule "Plexity/vendor/ImGui"]
+	path = Plexity/vendor/ImGui
+	url = https://github.com/StarToLeft/imgui
+	branch = docking
+[submodule "Plexity/vendor/GLFW"]
+	path = Plexity/vendor/GLFW
+	url = https://github.com/StarToLeft/glfw
+[submodule "Plexity/vendor/glm"]
+	path = Plexity/vendor/glm
+	url = https://github.com/g-truc/glm
+[submodule "Plexity/vendor/spdlog"]
+	path = Plexity/vendor/spdlog
+	url = https://github.com/gabime/spdlog
